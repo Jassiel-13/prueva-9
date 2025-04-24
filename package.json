@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+  "start": "node Mascota/tarea.js",
+  "test": "jest"
   },
   "repository": {
     "type": "git",
