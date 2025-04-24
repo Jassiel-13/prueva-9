@@ -25,6 +25,5 @@ jobs:
     - name: Run ESLint
       run: |
         npx eslint . || true
-
     - name: Run tests
       run: npm test
